@@ -1,7 +1,7 @@
-const ownerNumber = ["671350075@s.whatsapp.net"] 
+const ownerNumber = ["602092696@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '671350075' 
+const OriginalOwner = '602092696' 
 // mude para seu numero
 
 const gimagenotregister = false
@@ -51,7 +51,7 @@ const banmsgtype = '*Serás eliminado por enviar contenido prohibido*'
 const adminmsgtype = '*Por ser admin no te eliminaré*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = 'Lástima, el antiporno está activado'
+const banmsgporn = 'Lástima, el antiporno está activado, así que te vas a la mierda'
 // mensagem de ban no antiporn
 
 const adminmsgporn = '*Tu eres admin, te perdonaré el enviar porno*'
@@ -134,7 +134,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=+34671350075:+34671350075\n' 
++ 'TEL;type=CELL;type=VOICE;waid=+34602092696:+34602092696\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
